@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="Study App">2e766516db6f841036036a3b13961998</compiled_page_registry>
+        <description>Manager student evolution</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="Study App Search Context Config">a676ad92db6f841036036a3b1396192b</global_search_data>
+        <name>Study App</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <sc_catalog/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-03-16 17:52:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>62766516db6f841036036a3b13961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Study App</sys_name>
+        <sys_package display_value="SelfStudyApp" source="x_snc_selfstudyapp">f471a55edb2f841036036a3b139619ee</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SelfStudyApp">f471a55edb2f841036036a3b139619ee</sys_scope>
+        <sys_update_name>sys_aw_master_config_62766516db6f841036036a3b13961998</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-03-16 17:52:17</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>studyapp</workspace_url>
+    </sys_aw_master_config>
+</record_update>

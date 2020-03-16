@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Study Task" max_length="40" name="x_snc_selfstudyapp_study_task" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Study Type" max_length="40" name="study_type" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

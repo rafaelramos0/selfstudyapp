@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Study App to help manage your evolution Study Task</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">f0a5ad52db6f841036036a3b1396192c</icon>
+        <name>Study Tasks</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-03-16 17:48:37</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cda5e1d2db6f841036036a3b139619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Study Tasks</sys_name>
+        <sys_package display_value="SelfStudyApp" source="x_snc_selfstudyapp">f471a55edb2f841036036a3b139619ee</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SelfStudyApp">f471a55edb2f841036036a3b139619ee</sys_scope>
+        <sys_update_name>sys_sg_list_screen_cda5e1d2db6f841036036a3b139619aa</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-03-16 17:48:37</sys_updated_on>
+    </sys_sg_list_screen>
+</record_update>

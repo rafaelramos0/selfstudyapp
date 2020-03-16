@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">9b2ac18413303200b10d3d7ed144b0e9</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-03-16 17:38:34</sys_created_on>
+        <sys_id>f953a112db6f841036036a3b1396193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="SelfStudyApp" source="x_snc_selfstudyapp">f471a55edb2f841036036a3b139619ee</sys_package>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-03-16 17:38:34</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

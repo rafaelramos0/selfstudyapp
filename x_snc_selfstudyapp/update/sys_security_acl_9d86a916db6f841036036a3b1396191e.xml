@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <express_security>false</express_security>
+        <name>now.workspace.studyapp</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>servicenow.rafael</sys_created_by>
+        <sys_created_on>2020-03-16 17:52:27</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9d86a916db6f841036036a3b1396191e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>now.workspace.studyapp</sys_name>
+        <sys_package display_value="SelfStudyApp" source="x_snc_selfstudyapp">f471a55edb2f841036036a3b139619ee</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SelfStudyApp">f471a55edb2f841036036a3b139619ee</sys_scope>
+        <sys_update_name>sys_security_acl_9d86a916db6f841036036a3b1396191e</sys_update_name>
+        <sys_updated_by>servicenow.rafael</sys_updated_by>
+        <sys_updated_on>2020-03-16 17:52:27</sys_updated_on>
+        <type display_value="ux_page">b9eb8a1b873303002941b53046cb0b18</type>
+    </sys_security_acl>
+</record_update>
